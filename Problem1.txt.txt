@@ -23,4 +23,4 @@ O integer: getAgeInRange(minAge, maxAge)
         endif
     endwhile
     
-    return age
+    return minAge
