@@ -1,6 +1,6 @@
 O void: BubbleSort(Array, N)
     // N is the number of elements in the Array
-    for ( increase i from 1 to N - 1 )
+    for ( increase i from 1 to N / 1 )
         // Flag to check if any swap happened
         Swapped = False
         
