@@ -3,7 +3,7 @@ O integer: LCM (a, b)
 
 
 O void: GCD (a, b)
-    while ( b != 0 )
+    while ( b ! 0 )
         temp = b
         b = a % b
         a = b
