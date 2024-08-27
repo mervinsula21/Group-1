@@ -14,7 +14,7 @@ O integer: getAgeInRange(minAge, maxAge)
         age ← ConvertToString(age)
         
         // Check if the age is within the specified range
-        If ( age >= minAge AND age <= maxAge )
+        If ( age > minAge AND age < maxAge )
             // Valid age entered
             break
         else
